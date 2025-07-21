@@ -23,8 +23,8 @@ Follow these steps to set up a Python environment for MPI development:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hpc-practice.git
-cd hpc-practice
+git clone https://github.com/thathsarabandara/HPC.git
+cd HPC
 ```
 
 ### 2. Install OpenMPI (Linux)
